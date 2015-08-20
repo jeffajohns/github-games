@@ -2,4 +2,8 @@
 
 Our mission is to create a collection of  OFF-THE-HOOK, TOTALLY BONKERS classic open source games.
 
-Play the game at `jeffajohns.github.io/github-games`
+Tetris designed by Jeff A. Johns.
+
+Tetris is copyright Jeff A. Johns--the greatest living game designer in the WORLD.
+
+Play the game ONLY AT `jeffajohns.github.io/github-games`
